@@ -1,0 +1,3 @@
+config:
+  gcp:project: testcluster
+  gcp:zone: us-west1-a
